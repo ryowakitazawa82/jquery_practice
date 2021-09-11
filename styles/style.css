@@ -1,0 +1,12 @@
+body {
+  color: #333333;
+  font-size: 14px;
+  line-height: 1.6;
+  background-color: gray;
+}
+
+.faq dd {
+  display: none;
+  background-color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
