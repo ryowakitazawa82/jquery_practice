@@ -5,3 +5,11 @@ $(function(){
         $(this).toggleClass("open")//オープンというクラスが付与される
     });
 });
+
+//javascript チェックボックスを入れた時にマウスクリックをシミュレーション
+
+//マウスオーバーでmyFunctionを実行
+function myFunction() {
+    document.getElementById("myCheck").click();
+}
+
